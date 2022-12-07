@@ -1,7 +1,7 @@
 ## How to Convert Decimal Numbers to Binary
 ### Jimmy Scowden
 ### This tutorial will teach you how to convert decimal numbers to binary
-### This tutorial is aimed towards students in INFOTC1600
+### This tutorial is aimed towards students in INFOTC1600. No prior knowledge is required other than basic division.
 
 #### STEP 1: Take your decimal number and divide it by two. Write down the remainder.
 #### STEP 2: Repeat step one, with the answer you got from step one as the quotient. Keep writing down the remainders.
